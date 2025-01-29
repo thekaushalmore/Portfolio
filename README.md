@@ -54,7 +54,7 @@
 </ol>
 
 <h2>📜 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
 <h2>👨‍💻 Author</h2>
 <p><strong>Kaushal More</strong></p>
